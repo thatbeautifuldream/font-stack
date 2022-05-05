@@ -1,6 +1,6 @@
 # [My](http://in.milind.live) Font Stack
 
-My font stack available to download
+All fonts are available to download
 
 - [Inter](./zipped/Inter.zip)
 - [Space Grotesk](./zipped/Space_Grotesk.zip)
